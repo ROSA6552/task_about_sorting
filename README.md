@@ -1,3 +1,5 @@
 # task_about_sorting
 
-not_approved: 89, 313, 174, 461, 32, 56
+
+decided: 174
+not_decided: 89, 313, 461, 32, 56
